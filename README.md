@@ -11,13 +11,11 @@
 | | |
 |---|---|
 | [MediQ](https://play.google.com/store/apps/details?id=com.mediq.health) | AI health & nutrition companion (Android) |
-| [Grow Baby Grow](https://play.google.com/store/apps/details?id=com.growbabygrow.app) | Pediatric milestone & growth tracker (Android) |
-| [Gita Saar](https://play.google.com/store/apps/details?id=com.krishnauvacha.app) | Bhagavad Gita companion (Android) |
+| [Grow Baby Grow](https://play.google.com/store/apps/details?id=com.growbabygrow.app) | Pediatric milestone & growth tracker (Android), contributor |
 | [Lumen Clinic](https://lumen-clinic-demo-dropensources-projects.vercel.app) | Clinic website with booking & reminders (React + GSAP) |
-| [All apps on Google Play](https://play.google.com/store/apps/developer?id=NeuralMesh+Private+Limited) | NeuralMesh Private Limited |
 
 ### Open source
-[LaunchWizard](https://github.com/DrOpenSource/LaunchWizard) · [GitWizard](https://github.com/DrOpenSource/GitWizard) · [EnvWizard](https://github.com/DrOpenSource/EnvWizard) · [TechStack](https://github.com/DrOpenSource/TechStack) · [antigravity-starter](https://github.com/DrOpenSource/antigravity-starter) · [SuperFam](https://github.com/DrOpenSource/SuperFam)
+[LaunchWizard](https://github.com/DrOpenSource/LaunchWizard) · [GitWizard](https://github.com/DrOpenSource/GitWizard) · [EnvWizard](https://github.com/DrOpenSource/EnvWizard) · [TechStack](https://github.com/DrOpenSource/TechStack) · [antigravity-starter](https://github.com/DrOpenSource/antigravity-starter)
 
 ---
 
