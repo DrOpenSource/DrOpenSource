@@ -1,68 +1,46 @@
+## Building in public
+
 <div align="center">
 
-# Dr. Shubham Kashyap
-**Physician-Technologist · Health-tech, AI automation & apps**
+# dropensource
 
-[Upwork](https://www.upwork.com) · [LinkedIn](https://www.linkedin.com/in/imkashyaps) · [Live clinic demo](https://lumen-clinic-demo-dropensources-projects.vercel.app)
+> Technical founder
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=dropensource&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185110786%3Fu%3D5e640e950c3940dbc8495f3bb68189b13bf0e77a%26v%3D4" alt="dropensource hero visual" />
+</p>
 
 </div>
 
-### Shipped
-| | |
-|---|---|
-| [MediQ](https://play.google.com/store/apps/details?id=com.mediq.health) | AI health & nutrition companion (Android) |
-| [Grow Baby Grow](https://play.google.com/store/apps/details?id=com.growbabygrow.app) | Pediatric milestone & growth tracker (Android), contributor |
-| [Lumen Clinic](https://lumen-clinic-demo-dropensources-projects.vercel.app) | Clinic website with booking & reminders (React + GSAP) |
+## The point of view
 
-### Open source
-[LaunchWizard](https://github.com/DrOpenSource/LaunchWizard) · [GitWizard](https://github.com/DrOpenSource/GitWizard) · [EnvWizard](https://github.com/DrOpenSource/EnvWizard) · [TechStack](https://github.com/DrOpenSource/TechStack) · [antigravity-starter](https://github.com/DrOpenSource/antigravity-starter)
+> Building useful things and learning in public.
 
----
+- 👥 **2** followers · **4** following
 
-**MBBS doctor turned product builder. I love taking hard problems apart and building the thing that solves them.**
+*Small, useful work over vague claims.*
 
-I trained in medicine and became an entrepreneur first. Then AI closed the gap between knowing what a product should do and being able to build it myself — and I kept learning until I could ship. Now I take products end to end: spec, architecture, code, release.
+## Products and proof
 
-Most of what I build is health software. The rest is whatever someone I know actually needed.
+<table>
+<tr><td width="32%"><b><a href="https://github.com/DrOpenSource/media-ground-zero-desk">media-ground-zero-desk</a></b></td><td>A selected project from this GitHub profile.<br/><sub>JavaScript · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/DrOpenSource/spatial-ar-network">spatial-ar-network</a></b></td><td>A selected project from this GitHub profile.<br/><sub>JavaScript · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/DrOpenSource/LaunchWizard">LaunchWizard</a></b></td><td>A selected project from this GitHub profile.<br/><sub>TypeScript · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/DrOpenSource/DrOpenSource">DrOpenSource</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
+</table>
 
----
+## Momentum
 
-## What I'm building
+<table>
+<tr><td align="center"><b>9</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>436</b><br/><sub>contributions</sub></td></tr>
+</table>
 
-### FieldMap — offline-first field mapping for Android
-*Private, in active development*
+## Start a conversation
 
-A geologist friend needed to carry georeferenced maps into the field, hold his position with no signal, and record waypoints, lines, areas, tracks and photos — then have all of it syncs when a connection came back. So I'm building it. He validates every sprint on a real phone, in real terrain.
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=dropensource&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185110786%3Fu%3D5e640e950c3940dbc8495f3bb68189b13bf0e77a%26v%3D4" alt="dropensource social visual" />
+</p>
 
-The hard parts, and why they were hard:
+<a href="https://github.com/dropensource">GitHub</a>
 
-- **GDAL compiled for Android**, so map format conversion happens on the device. Importing a map cannot require a server, because there is no server where this app gets used.
-- **Sync that converges without trusting the phone's clock.** Two people editing the same feature offline for a week must end up agreeing, in any order, with no coordinator.
-- **Every write and its sync event commit in one transaction.** A crash mid-save can never leave a record that exists locally but will never sync, or a sync event for a record that was never written.
-
-### GitWizard — safe Git for AI-assisted development
-[Repository](https://github.com/DrOpenSource/GitWizard) · VS Code, Cursor, Antigravity · TypeScript · Vitest · MIT
-
-I was teaching a student to build with AI and he kept destroying his own work. Not through carelessness — because when you ask a model to change thirty files at once, Git stops being a safety net and becomes a hazard.
-
-GitWizard takes a shadow checkpoint before every transaction, aborts and restores the workspace on conflict, translates reflog into plain English with one-click undo, and splits a sprawling AI change set into clean, PR-ready branches.
-
-### Health software
-*Several applications in private development*
-
-Clinical and patient-facing tools: pathology assistance, cardiovascular risk, maternal health, nutrition tracking. These stay private while they are in development — medicine is not a domain to ship half-finished.
-
----
-
-## Stack
-
-TypeScript · React Native / Expo · Next.js · Supabase / PostgreSQL · SQLite · MapLibre · GDAL · Vitest · Deno
-
----
-
-## Elsewhere
-
-**[LinkedIn](https://www.linkedin.com/in/imkashyaps)**
-
-Open to collaboration on health, offline-first and geospatial software.
-
+<p align="center"><sub>dropensource · Founder profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
